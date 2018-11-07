@@ -6,6 +6,18 @@ to devour, and burgers you have already devoured.</p>
 <p>Follows the MVC design pattern and uses Node and MySQL to query and route data in the app, 
 with Handlebars to generate the HTML.<p>
 
+This App Built With :heartbeat:
+* Node.JS
+* Express
+* Handlebars
+* MySQL
+* ORM
+* JavaScript
+* JQuery
+* Bootstrap
+* HTML
+* CSS
+
 <h2>Getting Started</h2>
 
 <p>To get started on this project, follow the installation instructions below.</p>
@@ -38,15 +50,3 @@ change, nodemon will automatically restart your node application.</p>
 <strong>> Open your browser to http://localhost:3000/</strong>
 
 <p>and you are good to go :thumbsup:!</p>
-
-This App Built With :heartbeat:
-* Node.JS
-* Express
-* Handlebars
-* MySQL
-* ORM
-* JavaScript
-* JQuery
-* Bootstrap
-* HTML
-* CSS
