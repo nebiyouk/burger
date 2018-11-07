@@ -1,0 +1,14 @@
+<h2 class="bilu">The Burgers you WANT to devour!</h2>
+<br>
+<ul style="list-style: none;">
+  {{#each burgers}}
+  {{#unless this.devoured}}
+  <li class="yodi">
+    {{this.burger_name}}
+    <br>
+    {{> burgers/devour-burger}}
+    <hr>
+  </li>
+  {{/unless}}
+  {{/each}}
+</ul>
