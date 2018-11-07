@@ -39,16 +39,15 @@ The above command will install all the dependencies you need
 <p>nodemon will watch the files in the directory in which nodemon was started, and if any files 
 change, nodemon will automatically restart your node application.</p>
 
-<a href = "https://infinite-oasis-55540.herokuapp.com/" target = "_blank">Click For Demo</a>
-
-
-<h3>Step 4</h3>
+<h3>Step 3</h3>
 <strong>> nodemon server.js</strong>
 
 <p>The above command will start the server for you </p>
 
-<h3>Step 5</h3>
+<h3>Step 4</h3>
 
 <strong>> Open your browser to http://localhost:3000/</strong>
 
 <p>and you are good to go :thumbsup:!</p>
+
+<a href = "https://infinite-oasis-55540.herokuapp.com/" target = "_blank">Click For Demo</a>
