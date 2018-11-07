@@ -31,12 +31,13 @@ change, nodemon will automatically restart your node application.</p>
 <h3>Step 4</h3>
 <strong>> nodemon server.js</strong>
 
-<p>The above command will start the server for you :thumbsup:!</p>
+<p>The above command will start the server for you </p>
 
 <h3>Step 5</h3>
 
 <strong>> Open your browser to http://localhost:3000/</strong>
-and you are good to go
+
+<p>and you are good to go :thumbsup:!</p>
 
 This App Built With :heartbeat:
 * Node.JS
